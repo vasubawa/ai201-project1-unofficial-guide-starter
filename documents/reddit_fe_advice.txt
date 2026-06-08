@@ -1,0 +1,127 @@
+UCF foundation exam
+
+To all computer science majors who have passed the foundation exam, I took my first one this fall and failed it, but I was close. I retake it January 13 and have studied just a bit of dynamic memory allocation. If I start doing an hour a day now, what are the chances I pass this next time around? Not tryna take it again.
+22
+?
+21
+Comments Section
+Fury_Gaming
+?
+3y ago
+
+I haven?t passed a real FE but my cs1 class used the past FE?s as the final. I?d say solve 1-2 questions a day from previous exams and you?ll do fine. This is nearly 2 months worth of studying and will cover every type of question you?ll see
+
+But again, take me with a grain of salt as I?m a CpE that hasn?t officially taken it
+25
+u/DrStrange10 avatar
+DrStrange10
+?
+3y ago
+
+You dont need to take FE if you're a CPE
+-1
+Fury_Gaming
+?
+3y ago
+
+Yep, as I said I haven?t officially take it, and never will
+
+My cs1 final was a copy of previous FE questions however
+11
+u/Separate-Bend-5855 avatar
+Separate-Bend-5855
+?
+3y ago
+
+I passed the FE on the first try and honestly what I did was study the format of the old exams. Take the old exams in the appropriate time limit, I believed that helped tremendously.
+25
+Hobbitoe
+?
+3y ago
+
+It depends on how you did in CS1. Focus on what you feel least confident in. But also studying a few hours a day will only help. Use the past exams to study
+9
+[deleted]
+OP ?
+3y ago
+
+Absolutely, I got an A in cs1 but I took torosdagli who basically threw me an A. So now I'm trying to catch back up but as long as I stay focused I think I'll be fine.
+7
+[deleted]
+?
+3y ago
+
+Torosdagli sucked and didnt really teach. I got a 90 on my last fe this fall(after i failed it the first time). My advice is to just do a lot of the practice problems and make sure you actually understand the data structures.
+3
+saladasz
+?
+3y ago
+
+I?m taking her in spring, any tips?
+3
+[deleted]
+?
+3y ago
+
+Trivariant
+?
+3y ago
+
+My FE experience was just a ton of studying previous exams and reading over old notes. Guarantee you that some obscure recursive problem once slightly mentioned by Guha will be present in the exam too. Can?t forget the Towers of Hanoi
+9
+officiallyStephen
+?
+3y ago
+
+Study the old exams, I believe they show previous answer keys as well. Try it out and see if you do well and you?ll get a good idea what they?re looking for, it?s what I did and I got an 88% ?
+7
+u/IanRagan avatar
+IanRagan
+?
+3y ago
+
+I passed it this past fall and I studied using Zain?s website: https://passthefoundationexam.vercel.app It?s a life saver. You can pick the topics and go through past exam questions. And it even links you to the workshop videos. Wouldn?t have passed without this!
+5
+Silentzz09
+?
+3y ago
+
+Pretty much exact same thing happened to me a year ago. Failed the first attempt by a few points. Ended up passing on my second try. I just made sure I polished up what I knew, and for the things that I had no clue on. I would get the most possible points for setting up the problems
+4
+Brassgang
+?
+3y ago
+
+An hour a day for a month and a half? So you?ll have 50 days, and 50 hours. You?ll do fine. I think you need like a 70% to pass?
+3
+[deleted]
+OP ?
+3y ago
+
+60 to pass. I def think I got this, just had to get the confidence up. It's too easy to jump to conclusions and think you're gonna fail.
+2
+jimtheburger
+?
+3y ago
+
+I can't really say whether you will pass or not. But what I did was I took a foundation exam daily 2 weeks up to the exam. Probably overkill, but having access to all previous FE's is something that really helped. Also you start to learn patterns, they really like to throw in a Towers of Hanoi question, but not in consecutive years. Hour a day also works, but doing a complete foundation exam daily leaves no loose ends and it allows you to not avoid your weak subjects.
+3
+BunnyCorruption
+?
+3y ago
+
+You got this. I got it first try, but I focused on properly allocating memory and freeing it. The old tests help a lot too.
+2
+u/Bej0y avatar
+Bej0y
+?
+3y ago
+
+An hour a day now is good, I would just ramp it up a bit like a week and a half before and do some light studying the day before. Also, although you should ideally know all the content, looking at past exams so you can minmax and get the most points out of every question will go a long way.
+2
+theboss0123
+?
+3y ago
+
+U should be good just study the old exams the questions always are similar, if u know how to solve the past exams u should be able to easily pass the fe, i think i studied for 15h the few days before the exam
+2

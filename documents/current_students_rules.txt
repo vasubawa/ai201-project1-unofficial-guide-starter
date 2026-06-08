@@ -1,0 +1,48 @@
+
+
+Already enrolled in a degree program at the UCF Department of Computer Science? You?ll find important documents and information under the tabs below. 
+Undergraduate
+
+    Important Documents
+    CS Placement Test
+    CS Foundation Exam
+    Speak With an Advisor
+
+Who Should Take the Exam?
+
+Students interested in the computer science major must take the CS Foundation Exam before they can take the following required courses: COT4210, COP4331, COP4934, and COP4935. The goal of the exam is to ensure that every computer science student has the appropriate level of proficiency in fundamental topics.
+
+When Can I Take the Exam?
+
+You may take the exam within one year of passing COP3502: Computer Science I with a ?C? or higher. The exam is offered once per semester and you make take it up to three times per year.  If you elect not to take the exam when it is offered, you will not be allowed to take the exam beyond one year of passing COP3502.
+
+The exam is typically given on the first Saturday of each semester. The only exception to this rule will be on Saturdays when there is a home football game or when classroom space can not be reserved for students to take the exam. Check the secure sign-up page for exact dates.
+
+Notes About the Exam
+
+    The material covered in COP3502 should prepare you well for the exam.
+    The exam will not affect your GPA.
+    You cannot earn credit for taking the exam; however, if you are transferring from an out-of-state or a private school into UCF and have already completed a course similar to COP3502 with a grade ?C? or better, you can check with your advisor about course substitutions.
+    The passing mark is 60%. The exam coordinator reserves the right to move this passing line for any reason however.
+    You will be allowed to use the formula sheet during the exam.
+    You may check the placement test website for your results.
+    You may check the placement test website to find out who your advisor is.
+
+How to Register
+
+Sign up for the exam using the online form.
+
+Important Documents
+
+    Formula Sheet
+    Exam Structure
+    Apps to help you practice:
+        Vijay Stroup?s App
+        Zain Yousef Fuentes? App
+
+Previous Exams
+Date	Questions	Solutions	info
+Jan 11th, 2025	PDF	PDF	PDF
+Aug 24th, 2024	PDF	PDF	PDF
+
+Additional examples of previous exams can be found here.

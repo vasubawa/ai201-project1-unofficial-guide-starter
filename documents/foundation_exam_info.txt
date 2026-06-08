@@ -1,0 +1,175 @@
+Computer Science I - Foundation Exam Lecture
+The website with information and all relevant links for the exam is
+here:
+http://www.cs.ucf.edu/computer-science/#foundation-exam
+Here is perhaps the most important information that a student needs
+to know WHILE THEY ARE TAKING COP 3502 about the exam:
+1) Only required of Computer Science majors!
+2) Only eligible to take the exam within one year (12 months) of
+passing COP 3502 with a grade of C or higher.
+3) Given the first Saturday of every semester. (We aim to start at 10
+am, asking students to arrive where the exam is being given, typically
+CB2, at 9:30 am.)
+4) If you pass COP 3502 in the Fall 2023 semester, for example, then
+you would be eligible to take the exam in the Spring of 2024 (Jan),
+Summer of 2024 (May) and Fall of 2024 (Aug).
+5) If you choose not to attend an exam you are eligible for, your
+eligibility is NOT extended. (Thus, if you pass COP 3502 in Fall 2023
+but do not take the Spring 2024 exam, you would have at most two
+chances, Summer 2024 and Fall 2024, to pass the exam.)
+6) If you are an SAS student, you must sign up for the exam with the
+CS department, and then sign up with SAS. Since SAS is closed on
+Saturday, if you take the exam with SAS, you'll have to take it the
+day before (Friday) and sign a form stating you won't discuss the
+exam with anyone until all other students complete the exam.
+
+Foundation Exam Structure/Rules
+1) The exam lasts 2 hours.
+2) The exam has four sections, now labeled A, B, C and D. You get all
+four sections at the beginning of the exam.
+3) Each section has 3 questions. Two of those questions will be worth
+10 points and one of the questions will be worth 5 points. Thus, each
+section has 25 points total to earn and the exam is scored out of 100
+points.
+4) Each question comes from a specific list of topics. To see which
+question is from which topic, go to the link "FE Exam Structure" on
+the Foundation Exam Webpage.
+5) AIDS: Formula Sheet (also on the Foundation Exam Website) and
+scratch paper. In particular, no calculators are allowed.
+How to Sign Up
+1) Go to the Foundation Exam website and click on "Ready to Sign
+up".
+2) Registration Deadline: Wednesday at noon BEFORE the exam.
+(So, roughly 70 hours before the exam starts.)
+3) When you can sign up: After results are posted for the previous
+semester's exam. In practice, this is usually about one month after the
+previous exam is given. So, COP 3502 students can sign up NOW!!!
+4) Please triple check that the email address you enter (your ucf
+address) is entered properly when you register. This is how you
+receive communication about the exam (which room, time, etc.)
+
+How is Passing Determined?
+The difficulty of the questions is assessed and the distribution of
+grades is examined. Both data points are then used to determine a
+passing line. Each of the following has been chosen as the line for the
+passing score: 50%, 55%, 60%, 65% and 70%.
+On the website, off the link "Past Exams", the third column for each
+exam from August 2015 has an "Info" document. This document
+shows the average scores (on the exam, per section and per question)
+as well as the passing line for each exam. Examination of these
+documents will reveal that a fixed percentage of students are not
+chosen to pass, nor is the passing line fixed. Care is taken to maintain
+the rigor of the exam while accounting unforeseen difficulties that
+may have hampered students' grades. The goal is usually to set
+passing around 60%, but adjustments are made based on the
+distribution of scores and the perceived difficulty of questions, as
+necessary. There have been both unusually strong cohorts of students
+and unusually weak ones. (Spring 2020 was quite strong, January
+2017 was weak.)
+
+Process if you Pass
+1) Go to the website after results are posted and click on the link
+"Current Exam Results" to find your results.
+2) If you pass, you will be added to a course called COT 3960. If you
+pass the Foundation Exam in Fall (August) or Spring (January), you
+will be added to the G "portion" of that semester. If you pass the
+Foundation Exam in Summer (May), then you will be asked to choose
+which semester you prefer to be signed up for COT 3960 between
+Summer or Fall. Unless you need COT 3960 credit ASAP, you will be
+asked to choose Fall, since most advisors are not available over the
+summer.
+3) Independent of being added to COT 3960, if you pass the
+Foundation Exam, you will be assigned an advisor. You will receive
+an email with your advisor's name and email address. Also, you may
+click on the link "Find Advisor" about a week after you receive your
+results to find your advisor.
+4) You must contact your advisor to arrange an advising meeting.
+Prior to that meeting, you will be asked to fill out a plan of study form,
+which can be found off the webpage with the Foundation Exam Links.
+
+Process if you Pass - Continued
+5) After you fill out the Plan of Study form, you must upload it to the
+following website: https://go.ucf.edu/CS-FE-POS
+6) After the upload, you can meet with your advisor. Their job will be
+to review your plan of study (if they choose to), but to more
+importantly give you general academic advice about your future. (It's
+the student's responsibility to make sure they are following pre-
+requisite structure and graduating in a timely manner.)
+7) Your advisor will be asked to verify that you met and approve your
+plan of study. Once they do, you'll get a grade of 1 for meeting your
+advisor in Webcourses and at the end of the semester, you'll get an S
+grade for COPT 3960. If you fail to complete this requirement during
+the semester you are signed up for COT 3960, you will be assigned an
+I for this course and not be allowed to take COT 4210 or COP 4331.
+8) Then you can sign up for COP 4331, COT 4210 after the S is in the
+system for COT 3960. Note: If you sign up for one of these courses
+while you are enrolled for COT 3960 and get an Incomplete that
+doesn't get resolved, then you'll get kicked out of COP 4331 or COT
+4210 the day before classes start the following semester.
+
+My Study Tips (when you are in COP 3502 and right after)
+If you are in the class currently, just do the class work required and
+do your best to prepare for the final exam. After the final exam, assess
+your strengths and weaknesses.
+Pick 2 or 3 weaknesses to work on:
+1) Go back over the notes on these areas.
+2) Do some practice questions from old exams on these topics (click
+on Past Exams from the Foundation Exam website)
+3) Review your solutions with the posted ones.
+4) If your weakness is code related, type up related code (say a linked
+list, binary search tree insert) from scratch and test it on your own
+IDE. The testing and debugging process is enormously educational.
+Then, finally, take one practice exam in a timed setting, so you get an
+idea of time management during the exam.
+
+Day of the Exam Tips
+1) Sleep well for several nights before the exam (7 or more days).
+2) Have a decent breakfast, but don't stuff yourself.
+3) Read ALL the questions by the 30 minute mark!!!
+4) On the first pass reading through the questions, you are trying to
+identify each of the 12 questions into the following categories:
+(a) I know how to do this and it's fairly quick to solve,
+(b) I know how to do this, but the solution is somewhat lengthy,
+(c) I am not sure how to do this.
+5) On the first pass, only stop to solve questions in category (a).
+6) On the second pass, do all of the questions in category (b).
+7) On the third pass, do the best you can on all the questions in
+category (c). It's important to try to earn partial credit on every
+question. Even if you're not sure how to solve a problem, maybe you
+know what the base case ought to be, or how to set up the equation
+necessary. Write down these steps as there are usually points
+allocated for them.
+8) There is a happy medium between "tunnel visioning" (which is
+working on one problem and never giving up until you get it), and
+"thrashing" (switching between too many questions).
+If you spend too much time getting stuck on one question, you may
+not have enough time for other questions. But…switching your mind
+from one question to another has the cost of context switching - it
+takes your brain a bit of time to forget about the question you were
+working on and shift gears and "load into working memory" all the
+relevant facts about the new question. So, watch out for both extremes
+(don't get too into one problem that you spend 30 minutes on it, but
+give yourself enough time on a problem before giving up on it).
+
+Study Tips (if you fail the exam the first time)
+Cramming doesn't work!
+Identify your weaker areas by looking at your question by question
+scores (can be obtained via meeting after the exam).
+To incorporate an idea into long term memory, it usually takes about
+three weeks' worth (20 times or so) of repetition.
+So, for each of your targeted areas, schedule a week or two of 2 -4
+hours to work on that area and drill on it. You may reserve 5 practice
+exams for focused study. After reading over notes and searching
+general items, in an untimed setting, work on questions from these
+exams on the area upon which you want to focus. Go over the answers
+and see what you did well and what you need to adjust. Keep in mind
+there is more than 1 way to solve problems when doing this review.
+Also, for coding questions, you can actually code up solutions and test
+them. This is the best way to learn for coding questions.
+As you are doing your focused review, sprinkle in some timed practice
+exams. This forces you to recall information from all domains of the
+class near the same time and switch from category to category. Again,
+review the answers and ask yourself how well you did on the questions
+as well as with time management. Reflect upon what, if anything you
+would want to do differently. Reserve up to 5 exams for this sort of
+diffuse practice.

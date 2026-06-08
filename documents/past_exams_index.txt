@@ -1,0 +1,961 @@
+Previous Foundation Exams
+Questions and Solutions
+We suggest that you print the exam questions and try to solve them before you look at the solutions.
+If you have any questions about the exam, the exam questions or the exam solutions, contact Arup Guha or
+one of the course instructors.
+A good understanding of the concepts and problems presented in this exam is a strong indication that you are prepared
+for upcoming exams.
+This exam is posted to provide an example of a recent exam.  Posting this exam does not imply that future exams will
+contain the same questions or follow the same format.  However, the format used in this exam is typical of the most
+recent exams given and there are no immediate plans to make major changes to the exam format.  As expected, the
+Department of Computer Science reserves the right to modify the exam format if, in the opinion of the faculty, such a change
+is warranted.
+Exam Date
+Questions
+Solutions
+Info
+January 17
+th
+, 2026
+PDF
+PDF
+PDF
+August 23
+rd
+, 2025
+PDF
+PDF
+PDF
+May 17
+th
+, 2025
+PDF
+PDF
+PDF
+Jan 11
+th
+, 2025
+PDF
+PDF
+PDF
+Aug 24
+th
+, 2024
+PDF
+PDF
+PDF
+May 18
+th
+, 2024
+PDF
+PDF
+PDF
+Jan 13
+th
+, 2024
+PDF
+PDF
+PDF
+Aug 26
+th
+, 2023
+PDF
+PDF
+PDF
+May 20
+th
+, 2023
+PDF
+PDF
+PDF
+January 14
+th
+, 2023
+PDF
+PDF
+PDF
+August 27
+th
+, 2022
+PDF
+PDF
+PDF
+May 21
+th
+, 2022
+PDF
+PDF
+PDF
+Jan 15
+th
+, 2022
+PDF
+PDF
+PDF
+Aug 28
+th
+, 2021
+PDF
+PDF
+PDF
+May 22
+nd
+, 2021
+PDF
+PDF
+PDF
+Jan 16
+th
+, 2021
+PDF
+PDF
+PDF
+Sept 5
+th
+, 2020
+PDF
+PDF
+PDF
+Aug 8
+th
+, 2020
+PDF
+PDF
+PDF
+Jan 11
+st
+, 2020
+PDF
+PDF
+PDF
+Aug 31
+st
+, 2019
+PDF
+PDF
+PDF
+May 18
+th
+, 2019
+PDF
+PDF
+PDF
+January 12
+th
+, 2019
+PDF
+PDF
+PDF
+August 25
+th
+, 2018
+PDF
+PDF
+PDF
+May 19
+th
+, 2018
+PDF
+PDF
+PDF
+January 13
+th
+, 2018
+PDF
+PDF
+PDF
+August 26
+th
+, 2017
+PDF
+PDF
+PDF
+May 20
+th
+, 2017
+PDF
+PDF
+PDF
+January 14
+th
+, 2017
+PDF
+PDF
+PDF
+December 16
+th
+, 2016
+PDF
+PDF
+PDF
+August 12
+th
+, 2016
+PDF
+PDF
+PDF
+May 6
+th
+, 2016
+PDF
+PDF
+PDF
+December 18
+th
+, 2015
+PDF
+PDF
+PDF
+August 14
+th
+, 2015
+PDF
+PDF
+PDF
+May 8
+th
+2015
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+December 12
+th
+2014
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+August 8
+th
+2014
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+May 2
+nd
+2014
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Dec 13
+th
+2013
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Aug 9
+th
+2013
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+May 3
+rd
+2013
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+December 14
+th
+2012
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+August 10
+th
+2012
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+May 4
+th
+2012
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+December 16
+th
+2011
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+August 12
+th
+2011
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+May 6
+th
+2011
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Dec 17
+th
+2010
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Aug 13
+th
+2010
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+May 10
+th
+2010
+Computer Science I
+Part A  (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+December 18
+th
+2009
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+August 14
+th
+2009
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+May 8
+th
+2009
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A&B   (
+PDF
+)
+December 19
+th
+2008
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+August 8
+th
+2008
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+May 5
+th
+2006
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A   (
+PDF
+)
+Part B   (
+PDF
+)
+December 16
+th
+2005
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A&B   (
+PDF
+)
+August 12
+th
+2005
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A&B   (
+PDF
+)
+May 6
+th
+2005
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A&B   (
+PDF
+)
+Decemeber 17
+th
+2004
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+PDF
+)
+Discrete Structures
+Part A&B   (
+PDF
+)
+August 6
+th
+2004
+Computer Science I
+Part A (
+PDF
+)
+Part B (
+Doc
+)
+Discrete Structures
+Part A&B   (
+Doc
+|
+PDF
+)
+April 30
+th
+2004
+Computer Science I
+Part A (
+Doc
+|
+PDF
+)
+Part B (
+Doc
+|
+PDF
+)
+Discrete Structures
+Part A   (
+Doc
+|
+PDF
+)
+December  19
+th
+2003
+Computer Science I
+Part A&B (
+Doc
+|
+PDF
+)
+Discrete Structures
+Part A&B   (
+Doc
+|
+PDF
+)
+August 1
+st
+2003
+Computer Science I
+Part A (
+Doc
+|
+PDF
+)
+Part B  (
+Doc
+|
+PDF
+)
+Discrete Structures
+Part A&B   (
+Doc
+|
+PDF
+)
+May 2
+nd
+2003
+Computer Science I
+Part A (
+Doc
+|
+PDF
+)
+Part B  (
+Doc
+|
+PDF
+)
+Discrete Structures
+Part A   (
+Doc
+|
+PDF
+)
+Part B   (
+Doc
+|
+PDF
+)
+August 2
+nd
+2002
+Computer Science I
+Part A (
+Doc
+|
+PDF
+)
+Part B  (
+Doc
+|
+PDF
+)
+Discrete Structures
+Part A&B   (
+Doc
+|
+PDF
+)
+May 3
+rd
+2002
+Computer Science I
+Part A (
+Doc
+|
+PDF
+)
+Part B  (
+Doc
+|
+PDF
+)
+Discrete Structures
+Part A&B   (
+Questions
+|
+Doc
+|
+PDF
+)
+December 14
+th
+2001
+Computer Science I
+Part A (
+Doc
+|
+PDF
+)
+Part B  (
+Doc
+|
+PDF
+)
+Discrete Structures
+Part A   (
+Doc
+|
+PDF
+)
+August 6
+th
+2001
+Computer Science I
+Part A (
+Doc
+|
+PDF
+)
+Part B  (
+Doc
+|
+PDF
+)
+Discrete Structures
+Part A   (
+Doc
+|
+PDF
+)
+May 3
+rd
+2001
+Computer Science I
+Part A (
+Doc
+)
+Part B (
+Doc
+)
+Discrete Structures
+Part A&B (
+Doc
+|
+PDF
+)
+March 9
+th
+2001
+Computer Science I
+Part A (
+Questions
+|
+Doc
+|
+PDF
+)
+Discrete Structures
+Part A&B (
+Questions
+|
+Doc
+|
+PDF
+)
+December 14
+th
+2000
+Computer Science I
+Part A (
+Questions
+|
+Doc
+|
+PDF
+)
+Discrete Structures
+Part A&B (
+Doc
+|
+PDF
+)
+November 3
+rd
+2000
+Computer Science I
+Discrete Structures
+Part A (
+Doc
+|
+PDF
+)
+August 18
+th
+2000
+Computer Science I
+Part A (
+Doc
+|
+PDF
+)
+Discrete Structures
+Part A (
+Doc
+|
+PDF
+)
+May 3
+rd
+, 2000
+Computer Science I
+Part A (
+Doc
+|
+PDF
+)
+Discrete Structures
+March 3
+rd
+, 2000
+Computer Science I
+Part A&B (
+Doc
+|
+PDF
+)
+Discrete Structures
+DS (
+Doc
+|
+PDF
+)
+December 15
+th
+, 1999
+Computer Science I
+Part A (
+Doc
+|
+PDF
+)
+Discrete Structures
+Part A
+Oct. 22
+th
+, 1999
+Computer Science I
+Part A&B
+Discrete Structures
+Aug. 17
+th
+, 1999
+Computer Science I
+CS1
+Discrete Structures
+DS
+December 17
+th
+, 1998
+Computer Science I
+Discrete Structures
+DS
+Oct. 16
+th
+, 1998
+Computer Science I
+CS1
+Discrete Structures
+DS
+Note: These web pages were created for Windows-based browsers and some symbols may not display correctly on
+Macintosh or UNIX platforms.  If you experience problems in viewing or printing the web pages from a non-Windows
+browser, we suggest that you go to a UCF computer lab and view/print the pages there.

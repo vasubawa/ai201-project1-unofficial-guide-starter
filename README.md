@@ -1,7 +1,7 @@
 # The Unofficial Guide — Project 1
 
 > **How to use this template:**
-> Complete each section *after* you've built and tested the corresponding part of your system.
+> Complete each section _after_ you've built and tested the corresponding part of your system.
 > Do not write placeholder text — if a section isn't done yet, leave it blank and come back.
 > Every section below is required for submission. One-liners will not receive full credit.
 
@@ -9,31 +9,24 @@
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+This system provides a unified study companion for the UCF Foundation Exam (FE), a high-stakes test required to remain in the Computer Science major. The exam rules, past exam structures, topic breakdowns, and study advice are scattered across dozens of archived faculty websites, PDFs, and student-maintained repositories. Official exam policies and grading rubrics are difficult to access, and students must piece together study strategies from multiple fragmented sources. This RAG system aggregates these materials into a searchable tool so students can quickly find exam eligibility rules, topic coverage, code templates, partial-credit rubrics, and peer-validated study strategies.
 
 ---
 
 ## Document Sources
 
-<!-- List every source you collected documents from.
-     Be specific: include URLs, subreddit names, forum thread titles, or file names.
-     Aim for variety — sources that together cover different subtopics or perspectives. -->
-
-| # | Source | Type | URL or file path |
-|---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| #   | Source                    | Type                            | URL or file path                                                                              |
+| --- | ------------------------- | ------------------------------- | --------------------------------------------------------------------------------------------- |
+| 1   | Current Students Rules    | Official rules document         | `documents/current_students_rules.txt`                                                        |
+| 2   | Foundation Exam Info      | Official exam structure PDF     | `http://www.cs.ucf.edu/~dmarino/ucf/transparency/cop3502/lec/FoundationExamInfo.pdf`          |
+| 3   | Past Exams Index          | Official exam overview page     | `https://www.cs.ucf.edu/registration/exm/`                                                    |
+| 4   | COP3502 Syllabus          | Course syllabus with FE context | `https://www.cs.ucf.edu/courses/cop3502/spr2022/COP3502-Sec12-Syllabus-Spr22.pdf`             |
+| 5   | Nick1052 COP3502C README  | UCF Fall 2021 student summary   | `https://raw.githubusercontent.com/Nick1052/COP3502C/master/README.md`                        |
+| 6   | VijayStroup ucf-fe README | UCF student FE prep app         | `https://raw.githubusercontent.com/VijayStroup/ucf-fe/master/README.md`                       |
+| 7   | Reddit FE Advice          | Student advice from r/ucf       | `documents/reddit_fe_advice.txt`                                                              |
+| 8   | JustinHawtree FE Academy  | KnightHacks FE prep project     | `https://raw.githubusercontent.com/JustinHawtree/FE_Academy_KnightHacks2020/master/README.md` |
+| 9   | FEPrep README             | Official FEPrep platform        | `https://raw.githubusercontent.com/MewingCentral/FEPrep/main/README.md`                       |
+| 10  | RateMyCourses COP3502C    | Student course reviews          | `documents/ratemycourses.txt`                                                                 |
 
 ---
 
@@ -91,13 +84,13 @@
      Be honest — a partially accurate or inaccurate result that you explain well is more
      valuable than a suspiciously perfect result. -->
 
-| # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
-|---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| #   | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
+| --- | -------- | --------------- | ---------------------------- | ----------------- | ----------------- |
+| 1   |          |                 |                              |                   |                   |
+| 2   |          |                 |                              |                   |                   |
+| 3   |          |                 |                              |                   |                   |
+| 4   |          |                 |                              |                   |                   |
+| 5   |          |                 |                              |                   |                   |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
@@ -151,12 +144,12 @@
 
 **Instance 1**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- _What I gave the AI:_
+- _What it produced:_
+- _What I changed or overrode:_
 
 **Instance 2**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- _What I gave the AI:_
+- _What it produced:_
+- _What I changed or overrode:_

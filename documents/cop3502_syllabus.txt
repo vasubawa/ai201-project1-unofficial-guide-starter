@@ -1,0 +1,215 @@
+COP 3502C Section 2
+Computer Science I - Spring 2022 Syllabus
+Course Prerequisites: COP 3223 (Introduction to C Programming)
+Information Section 2
+Class Time MWF 12:30 pm - 1:20 pm
+Class Location CB1 - 104
+Teaching Assistants Daniel Gordon
+Brandon Gray
+Ansh Parikh
+Ksenia Soulakova
+Course Web Page: http://www.cs.ucf.edu/courses/cop3502/spr2022
+Lecturer: Arup Guha
+Office: HEC-240
+Email: dmarino@ucf.edu
+Office Hours: Will Be Posted on the Course Web Page the first week of class.
+I do NOT check my WebCourses email. Please email me at
+dmarino@ucf.edu to contact me.
+Teaching Assistants and Office Hour Information:
+Will Be Posted on the Course Web Page the first week of class.
+Course Objectives
+1. Introduce known algorithms.
+2. Provide software skills in C.
+3. Introduce mathematical tools necessary to analyze algorithms.
+4. Introduce the problem solving technique of recursion.
+5. Introduce implementing data structures from primitive constructs in C.
+6. Introduce search and sorting techniques.
+Reference Books: Any book on data structures will do for this course. The following book is
+available in the bookstore: Data structures, algorithms & software principles in C, Thomas B.
+Standish, Addison - Wesley (ISBN - 0-201-59118-9). There are a detailed set of course notes and
+sample programs that should be sufficient in explaining the material to most students.
+
+Most Critical Course Items
+1. COP 3502 is a very challenging class. The average student should expect to
+spend 12 hours a week on the course. The upside to the course being challenging is
+that if you can get through this course with mastery of the skills taught in it, you are
+virtually guaranteed to graduate with a computer science (CS) degree from UCF,
+since mastering the course material will give you all the necessary skills in terms of
+diligence and problem solving that you'll need to properly handle future CS courses.
+(If you are in another major, mastering the skills in this course will allow you to
+handle most future coding challenges you may face.) You don't earn those skills for
+free. You earn them by putting in a great deal of effort. Make sure to plan a schedule
+that allows for this time consistently.
+2. All of my course materials content wise (notes, sample programs, program and
+exam solutions, etc.) EXCEPT VIDEOS will be posted online via my course web
+page at:
+http://www.cs.ucf.edu/courses/cop3502/spr2022
+At a minimum students should visit the course web page every Monday, Wednesday
+and Friday for added materials.
+3. Webcourses will be used to handle the submission of assignments and posting
+grades. In addition, copies of old lecture videos (from Summer 2020) will be
+available for those who miss class for any reason. At a minimum students should
+visit Webcourses every Monday, Wednesday and Friday for class and other
+announcements.
+4. If you are a Computer Science major, you must pass the Foundation Exam
+within one year of passing Computer Science I. Since the exam is offered once
+a semester (first Saturday of every semester), that means that a student will
+have a maximum of 3 attempts at passing the exam. In particular, if a student
+passes this course (COP 3502 Spring 22), they are eligible to take the
+Foundation exam in Summer 2022 (May 2022), Fall 2022 (August 2022), and
+Spring 2023 (January 2023). If a student elects not to take an exam one of these
+times, their eligibility is NOT extended at all. Eligibility can only be extended
+via the appeal process and is typically only given if a student was incapable of
+attending the exam due to a health/family/military reason. A student not
+passing the exam in this time frame gets redirected out of Computer Science.
+
+Tentative Grading Procedures
+The final letter grade will be based upon the seven items listed below. Plus/minus grades will
+be issued, when deemed appropriate.
+Item Weight
+Week 1 Programming Assignment 2%
+Individual Programming Assignments (6) 24% total (4% for each)
+Recitation Programs (choose 2 of 4) 8% total (4% for each of these two)
+Recitation Group Reports 10%
+Quizzes (4) 28% each (7% for each)
+Final Exam* 28%
+Also, in order to pass the class you must earn at least a 40% on the final exam. I reserve the
+right to either enforce or not enforce this clause, based on the individual situation.
+Rather than use a "strict" 90 - 100 grading scale, I adjust my grade lines to account for difficult
+exams. My webpage discusses this process in detail.
+Note: This grading breakdown is subject to change. Any changes will be discussed in course
+videos and Webcourses announcements. As previously mentioned, in the past I made changes
+to the class syllabus based on class behavior. In some classes I changed the syllabus to include
+class attendance in the middle of the semester and as previously mentioned, I threw out an
+entire exam grade due to academic misconduct. In classes where I've had a vast majority of
+responsible students, I have not needed to make any changes to the class grading system.
+Programming Assignments (Week 1 Assignment and Individual Assignments)
+All programming assignments will be turned in over WebCourses. All programs must be done in
+C and must be compatible with the compiler on the Eustis system you will be given access to.
+Programs must be done individually with course staff help only. Collaboration is not allowed on
+any programming assignment. (A further explanation of academic misconduct on programming
+assignments is discussed on my main UCF web page. Please read this.) Official assignment due
+dates will be posted on WebCourses. (Please look these up yourself instead of asking a friend.)
+Note: All of the individual programming assignments this semester were used last semester.
+If I detect any wide spread cheating (getting assistance from last year's students or using
+solutions posted last year in any way) on these assignments, I RESERVE THE RIGHT TO
+NOT COUNT THE PROGRAM GRADES FOR ALL STUDENTS IN THE COURSE AND
+SOLELY BASE COURSE GRADES ON THE QUIZZES AND FINAL EXAM.
+My hope is that I can simply trust all students to do their own work and that the assignments will
+provide a valuable learning resource to you. As long as you all as a class play by the rules, I will
+also, and keep the syllabus (how I count grades) as it is.
+THE ONLY VALID DUE DATES ARE THOSE POSTED ON WEBCOURSES.
+
+My personal advice is to submit all assignments AT LEAST THREE hours before the
+posted Deadline. Too often, students wait till the last minute only to miss the deadline due to
+network issues. In CASEs where a SUBMISSION is late (even by a Second), A Grade
+of ZERO will be given to the Submission.
+Community Service Opportunity
+If students want to get an automatic perfect 100% for the last programming assignment, which is
+worth 4% of the course grade, students may perform 5 hours (or more) of community service with
+a registered 501 (c)(3) organization. If you take this option, then you will automatically earn
+100% for Program 6 grade. In order to get this credit, you must complete the community service
+and turn in the requisite form signed directly to me (in my hand) by April 6, 2022. All grades for
+the community service will be posted in the P6 column by April 7, 2022. If you don't see your
+grade there by April 8th, then please do P6.
+Recitation - Programs and Group Write Ups
+Each recitation meeting will consist of one of the following formats:
+(a) You'll be asked to work on a programming problem from the website open.kattis.com.
+(b) A lecture format where the TA goes over some material.
+(c) You'll be asked to work on some practice problems (similar to past exam questions) on paper.
+(d) A final exam review (format up to the TA)
+(a) On four weeks of recitation, a programming problem will be given. Each of these is on the
+website open.kattis.com, but students may be required to turn in more than their source code.
+Directions will be given in recitation. (In addition, further restrictions may be given on the method
+of solution and the efficiency of the solution beyond getting an accepted status on Kattis.) Students
+are expected to submit two out of four of these via Webcourses for credit. (The lowest two grades
+will be dropped.)
+(b) On the first and sixth weeks of recitation, the TA will cover some review material in a standard
+lecture format.
+(c) On most of the other weeks of recitation, practice problems (on paper) will be given for students
+to work on. After the first quiz, groups will be assigned based on quiz performance. ALL
+STUDENTS IN A GROUP WILL BE FROM THE SAME RECITATION.
+Some groups will have either a TA or ULA assigned to them. Each group will be required to meet
+outside of recitation once a week to fortify course concepts. To ensure groups are meeting, groups
+are required to take and submit weekly meeting notes. The group grades will be based on these
+notes. If a group forgets to submit these notes, unfortunately, they'll earn a 0 even if they
+met. All students in a group will receive the same grade.
+In my past research, groups who follow my directions tend to increase their course grades by an
+average of 10%. I'll give my directions and groups are the free to do what they want. ULAs and
+TAs will be assigned to the students who struggle on the first quiz. The idea here is that the
+
+ULA/TA will ensure that the group follows my directions and those groups are the ones that are
+in most need of structured review.
+(d) For the last recitation, I allow the TAs to plan a review for their students as they see fit!
+Quizzes
+Four quizzes will be given in class. Limited aids may be provided by the instructor (list of C library
+functions and formulas) for these quizzes as necessary. No calculators or electronic aids will be
+allowed for quizzes. Since our class time is short (only 50 minutes) quizzes will be relatively short
+and each will only be worth 7% of the course grade. This means that one can recover from one
+bad quiz performance fairly easily.
+Final Exam
+The final exam will be comprehensive. As previously mentioned, in order to pass the course with
+a C or higher, a student must earn at least 40% on the final exam. (The instructor reserves the right
+to waive this requirement if the final exam is deemed to be exceedingly difficult.) Students will be
+allowed to use some notes as aids during the exam. This will be discussed in the last lecture class
+of the semester.
+Correcting Incorrectly Posted Grades/ Regrades
+Students have one week after a grade is posted on WebCourses to ask for a regrade on an
+assignment or quiz. Due to the short time frame, there are no regrades on the final exam. ONLY
+the course instructor can regrade assignments, quizzes or exams. Do NOT ask teaching
+assistants to do so.
+If a grade is entered incorrect, students have until the last day of class, April 25, 2022 at 5 pm, to
+request that the grade get fixed. In this case, either a teaching assistant or course instructor can
+make the change.
+The purpose of this rule is to avoid situations where students approach me after grades have been
+turned in with incorrectly recorded grades from a long time ago. Changing these grades is difficult
+and time consuming and it's in everyone's best interests if grades are corrected as soon as possible.
+In addition, in many cases, students try to do this after the fact, if they see they are close to the
+next letter grade after the class is completed. This kind of behavior should be discouraged. Rather,
+regrade requests ought to occur very shortly after a grade is posted.
+I am hoping that adding this policy will encourage students to step forward immediately in
+situations where a grade is recorded incorrectly or a student genuinely believes that a grading error
+has occurred. Taking care of these cases early is ideal for all students AND staff.
+Keep in mind that in many instances, a grade won't be changed simply because of the grading
+criteria that was applied. One may think that a particular response is worth some number
+of points and that may not be consistent with the grading criteria. In these cases (many of
+the cases presented to me), I don't change a student's grade.
+
+Tentative Schedule
+Week Monday Wednesday Friday Recitation
+Jan 10 DMA DMA DMA Intro/C Review
+Jan 17 MLK DAY Quiz #1 Recursion Kattis Program #1
+Jan 24 Recursion Recursion Recursion Rec Problems
+Jan 31 Recursion Linked Lists Linked Lists Kattis Program #2
+Feb 7 Stacks Stack Apps Queues Quiz 2 Review
+Feb 14 Queues for BFS SLM Quiz #2 Sum Preparation
+Feb 21 Big Oh Notation Experimental R.T. Sums Alg. Problems
+Feb 28 Recurrences Recurrences n2 sorts Rec Rel Problems
+Mar 7 SPRING BREAK NO CLASS
+Mar 14 Merge Sort Quick Sort Quiz #3 Kattis Program #3
+Mar 21 Binary Trees Binary Trees Binary Trees Tree Problems
+Mar 28 AVL Trees AVL Trees Tries Trie Problems
+Apr 4 Heaps Hash Tables Quiz #4 Heap/Hash Probs
+Apr 11 Base Conversion Bitwise Operators Bitwise Ops Probs Kattis Program #4
+Apr 18 Binary Search Foundation Exam Backtracking Final Exam Review
+Information
+Apr 29 Final Exam FINAL EXAM
+(Friday) Review 10AM - 1PM
+Tentative Programming Assignment Topics and Due Dates:
+Program Topic Program Tentative Due Date
+0 Strings Deck 1/14/2022, L (1/19/22)
+1 Dynamic Memory Allocation Smoothie 1/28/2022
+2 Recursion Tree House Walking 2/11/2022
+3 Linked Lists Lottery 2/25/2022
+4 Sorting Scholar 3/25/2022
+5 Binary Trees Word Sort 4/8/2022
+6 Binary Heaps Priority Hair Salon 4/22/2022
+• This schedule is tentative. The only items guaranteed to be on the listed dates are the
+exams. All other items may be shifted based on how the class actually runs. These
+details will generally only be discussed in the videos and Webcourses announcements.
+• Note: All program and recitation program due date/times will ONLY be posted on
+Webcourses. Please go there to find when each of these assignments is due.
+• I don't know how I will handle things if classes are forced online. If that happens,
+please pay very careful attention to all announcements over Webcourses!!! It's likely
+that in this case, non-trivial changes will be made to the syllabus, and more
+importantly to the quiz and exam formats.
